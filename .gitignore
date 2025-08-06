@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+#Varabiales de Entorno
+.env
